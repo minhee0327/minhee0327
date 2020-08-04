@@ -5,7 +5,7 @@
 - My dream is to become a frontend engineer.
 - I love studying frontend related things such as html, css, javaScript, react, typescript, webpack, etc.
 - And I'm recording my studies in my TIL repository
-- Thank you for coming to my GitHub and I want you to follow each other. 😘❤️
+- Thank you for coming to my GitHub and I always welcome F4F. 😘❤️
 
 
 
