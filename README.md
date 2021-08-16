@@ -5,7 +5,7 @@
 
 
 ### 📌 배움기록 저장소
-- [TIL repository](https://github.com/minhee0327/TIL) | [TIL GitBook](https://minhee0327.gitbook.io/mini-til/) | [T-story](https://minhee0327.tistory.com/) | [NaverBlog](https://blog.naver.com/leefree3)
+- [TIL repository](https://github.com/minhee0327/TIL) | [TIL GitBook](https://minhee0327.gitbook.io/mini-til/) | [T-story](https://minhee0327.tistory.com/) | [NaverBlog](https://blog.naver.com/leefree3) | [개발일지](https://wooden-plate-047.notion.site/TIL-5ae0d4d9d67f40bbacb7ed805b622faf)
 
 ### 🙉 간략 소개
 - Java/Spring 주니어개 서버(백엔드)개발자를 목표로 하고있습니다.
