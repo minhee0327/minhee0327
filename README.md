@@ -8,6 +8,6 @@
 - [TIL repository](https://github.com/minhee0327/TIL) | [TIL GitBook](https://minhee0327.gitbook.io/mini-til/) | [T-story](https://minhee0327.tistory.com/) | [NaverBlog](https://blog.naver.com/leefree3) | [개발일지](https://wooden-plate-047.notion.site/TIL-5ae0d4d9d67f40bbacb7ed805b622faf)
 
 ### 🙉 간략 소개
-- Java/Spring 주니어개 서버(백엔드)개발자를 목표로 하고있습니다.
+- Java/Spring 주니어 서버(백엔드)개발자를 목표로 하고있습니다.
 - 배운 것을 기록하고, 공유하고, 따끔하게(?) 알려주시는 것을 선호합니다. 
 - 많이 부족하지만 열심히 배워가는 중입니다. 만나서 반갑습니다 👋
